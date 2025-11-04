@@ -1,6 +1,7 @@
 # CubeList 🎯
 
 一个白名单 Velocity 服务端插件，支持在线 JSON 文件
+源代码请转到 ```Code``` 分支
 
 ## ✨ 特性
 
